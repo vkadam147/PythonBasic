@@ -17,5 +17,6 @@ weight=55
 height=1.62
 BMI= weight/(height**2)
 print(BMI)
+print("hi")
 
 
