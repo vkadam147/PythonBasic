@@ -1,0 +1,9 @@
+#print 1 to 100 even nos
+
+for i in range(0,101):
+    if i%2==0:
+        print(i)
+
+for i in range(100,200,2):
+    print(i)
+   
