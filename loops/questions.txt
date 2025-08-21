@@ -1,0 +1,19 @@
+Print the first 10 natural numbers.
+
+Find the sum of digits of a number.
+
+Reverse a given number.
+
+Check whether a number is prime.
+
+Generate the Fibonacci sequence up to n terms.
+
+Find factorial of a number.
+
+Count vowels and consonants in a string.
+
+Check if a number is palindrome.
+
+Find the largest among three numbers.
+
+Print multiplication table of a given number.
