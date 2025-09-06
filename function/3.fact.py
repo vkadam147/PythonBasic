@@ -3,7 +3,7 @@ def fact(num):
     while num!=0:
         fact=fact*num
         num-=1
-    return fact
+    return                                 
 a=fact(5)
 print(a)
 b=fact(3)

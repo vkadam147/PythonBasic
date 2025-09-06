@@ -12,3 +12,4 @@ for s in name:
 for s in range(0,len(name)):
     print(f"{s}={name[s]}")
 
+
