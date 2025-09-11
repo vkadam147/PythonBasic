@@ -13,3 +13,7 @@ if temp==reverse:
     print("palindrom")
 else:
     print("not palindrom")
+
+
+
+
