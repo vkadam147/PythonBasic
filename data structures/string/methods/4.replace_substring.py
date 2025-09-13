@@ -12,3 +12,6 @@ print(id(name))
 newName=name.replace("difficult","easy")
 print(newName)
 print(id(name))
+
+
+

@@ -22,7 +22,7 @@ print(text2.find("a"))    # 0 (first 'a')
 print(text2.rfind("a"))   # 5 (last 'a')
 print()
 
-# 3️⃣ find(substring, start, end)                                                                                                                                                                                                                      
+# 3 find(substring, start, end)                                                                                                                                                                                                                      
 print()
 
 # 4️⃣ index() 

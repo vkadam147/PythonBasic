@@ -22,3 +22,11 @@ name= "            sinhgad             "
 name=name.strip()
 print(name)
 
+                         
+
+
+ 
+
+
+
+
