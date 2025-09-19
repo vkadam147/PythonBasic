@@ -16,8 +16,6 @@ w2='listens'
 #     print("anagram")
 # else:
 #     print("not anagram")
-
-
 for ch in w1:
     if len(w1)!=len(w2):
         print("not anagram")

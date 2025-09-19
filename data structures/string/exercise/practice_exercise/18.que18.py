@@ -9,4 +9,5 @@ print(a)
 print(b)
 for word in b:
     print(f"{word}: ",a.count(word))
+
     

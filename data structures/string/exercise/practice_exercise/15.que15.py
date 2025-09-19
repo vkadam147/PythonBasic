@@ -7,10 +7,10 @@ for x in order:
     if x.isdigit():
         d+=x
 print(d)
+ 
 
 
-
-#cocunt no of digits no of alphabets and no of symbols in vaishnavi@19
+#count no of digits no of alphabets and no of symbols in vaishnavi@19
 
 password='Vaishnavi@19'
 digit=alpha=symbols=upper=lower=0
