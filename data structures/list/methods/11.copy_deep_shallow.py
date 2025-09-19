@@ -2,9 +2,11 @@
 
 # Example List
 l1 = [1, 2, 3, 4, [5, 6, 7]]
+print(id(l1[4]))
 
 # ---------------- SHALLOW COPY ----------------
-l2 = l1.copy()   # shallow copy
+l2 = l1.copy()
+print(id(l2[4]))   # shallow copy
 
 print("Before shallow copy change:")
 print("l1:", l1)
