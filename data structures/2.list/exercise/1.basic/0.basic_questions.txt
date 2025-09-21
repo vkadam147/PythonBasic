@@ -1,0 +1,24 @@
+1.Create a list of the first 10 natural numbers and print their squares. 
+
+2.  Find the largest and smallest number in a list. 
+
+3. Count even and odd numbers in a list. 
+
+4. Reverse a list without using the reverse() method. 
+
+5. Take 5 student names as input and store them in a list
+
+6.. Write a Python program to create a list of integers and calculate the sum of all
+elements without using the built-in sum() function.
+
+7. Implement a program to find the maximum and minimum element in a list without
+using the built-in max() or min() functions.
+
+8. Reverse a list without using slicing ([::-1]) or the reverse() method. Explain the
+logic you used.
+
+9. Given a list, count the frequency of each element and display the result in dictionary
+format.
+
+10. Write a program to remove duplicates from a list while maintaining the original
+order of elements.
