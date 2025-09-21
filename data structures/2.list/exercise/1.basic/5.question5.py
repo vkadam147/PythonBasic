@@ -1,0 +1,1 @@
+# 5.  Take 5 student names as input and store them in a list. 

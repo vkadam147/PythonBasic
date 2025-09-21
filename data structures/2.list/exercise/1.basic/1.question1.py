@@ -1,1 +1,1 @@
-#  Create a list of the first 10 natural numbers and print their squares.
+# 1 Create a list of the first 10 natural numbers and print their squares.

@@ -1,1 +1,1 @@
-#  Find the largest and smallest number in a list.
+# 2. Find the largest and smallest number in a list.
