@@ -5,6 +5,6 @@ def sum_of_digits(num):
         num=num//10
         sum=sum+rem
     return sum
-a=sum_of_digits(9529134122)
+a=sum_of_digits(9453747577)
 print(a)
 

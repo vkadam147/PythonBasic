@@ -2,7 +2,7 @@
 
 print(len("vaish kadam"))
 
-#print(len(12345)) #len fun use to calculate lenghth of the string only
+#print(len(12345)) #len function use to calculate lenghth of the string only
 
 length =len("jenny khatri")
 print("your name has "+ str(length) + " character")

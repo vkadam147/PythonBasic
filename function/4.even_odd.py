@@ -1,4 +1,3 @@
-
 def even_odd(num):
     if num%2==0:
         return True
@@ -11,4 +10,29 @@ if a:
     print("even")
 else:
     print("odd")
+
+
+
+
+
+
+
+                                                                                                                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
