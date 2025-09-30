@@ -120,3 +120,8 @@ print(reverse())
 
 
 
+list=['California','Austria','Denmark','Amstradam']
+new_list=[x[0] for x in list]
+print(new_list)
+
+
